@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Phạm Văn Nam",
+      "age": 24,
+      "id": 1,
+      "phone": "0394820647",
+      "email": "nampvps26203@fpt.edu.vn"
+    },
+    {
+      "id": 3,
+      "name": "Anh Tú",
+      "age": 34,
+      "email": "nampvpsad26203@fpt.edu.vn",
+      "phone": "2000222"
+    },
+    {
+      "id": 10,
+      "name": "Phạm  aaaa",
+      "age": 222,
+      "email": "nampvps26203@fpt.edu.vn",
+      "phone": "0394820647"
+    },
+    {
+      "name": "Phạm Văn Nam 232323",
+      "age": "242",
+      "email": "nampvp203@fpt.edu.vn",
+      "phone": "039482062323",
+      "id": 11
+    },
+    {
+      "name": "Phạm  aaaadasd",
+      "age": "222",
+      "email": "nampvps26203@fpt.edu.vn",
+      "phone": "0394820647",
+      "id": 12
+    },
+    {
+      "name": "Phạm  aaaa",
+      "age": "222",
+      "email": "nampvps26203@fpt.edu.vn",
+      "phone": "0394820647",
+      "id": 13
+    }
+  ]
+}

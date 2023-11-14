@@ -1,0 +1,146 @@
+body {
+  background-color: #d5d5d5;
+  font-family: system-ui;
+}
+
+.container {
+  background-color: #e9e7ea;
+  grid-template-columns: 35% 60%;
+  gap: 30px 5%;
+  width: 1000px;
+  max-width: 100%;
+  margin: auto;
+  padding: 50px;
+  display: grid;
+  box-shadow: 0 10px 50px #858585;
+}
+
+.avatar img {
+  object-fit: cover;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.avatar {
+  justify-content: end;
+  align-items: center;
+  display: flex;
+}
+
+.name {
+  border-left: 1px solid #000;
+  padding-left: 30px;
+}
+
+.name h1 {
+  margin: 0 0 5px;
+  font-size: xxx-large;
+  font-weight: 300;
+}
+
+.name .specialize {
+  letter-spacing: 3px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.name .contact {
+  padding: 0;
+  list-style: none;
+}
+
+.name .contact span {
+  color: #fff;
+  text-align: center;
+  background-color: #000;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  margin-right: 20px;
+  font-size: small;
+  display: inline-block;
+}
+
+.name .contact li {
+  background-color: #e9e7ea;
+  padding: 5px 0;
+  transform: translate(-40px);
+}
+
+.info ul {
+  text-align: right;
+  margin: 0;
+  padding: 0;
+  line-height: 30px;
+  list-style: none;
+}
+
+h2 {
+  margin: 0 0 20px;
+  padding: 0;
+}
+
+.intro {
+  text-align: justify;
+  border-left: 1px solid #000;
+  padding-left: 30px;
+}
+
+.experience {
+  text-align: right;
+}
+
+.experience h4 {
+  margin: 20px 0 10px;
+}
+
+.skills {
+  margin-top: 50px;
+}
+
+.experience ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.experience li {
+  padding: 10px 0;
+}
+
+.project {
+  text-align: justify;
+  border-left: 1px solid #000;
+  padding-left: 30px;
+}
+
+.project h4 {
+  margin: 20px 0 10px;
+}
+
+.project .web {
+  color: #0c7373;
+  padding: 10px 0;
+}
+
+.project .location {
+  padding-bottom: 10px;
+  font-weight: 500;
+}
+
+.project .item {
+  position: relative;
+}
+
+.project .item:before {
+  content: "";
+  background-color: #000;
+  border-radius: 50%;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  left: -37px;
+}
+
+/*# sourceMappingURL=1.225fca1d.css.map */
